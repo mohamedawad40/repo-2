@@ -1,6 +1,6 @@
-to remove locally
+//to remove locally
 git checkout dir
 git branch -d dir
 
-to remove remotly
+//to remove remotly
 git push origin --delete dir
