@@ -14,4 +14,4 @@
 
 ![myimage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbojnCmRHe0SHaexCkJvqc67i138SU_ASJzB0AqfWyg&s)
 
-![myimage](background.jpg)
+![myimage](./background.jpg)
