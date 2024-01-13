@@ -14,4 +14,4 @@
 
 ![myimage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbojnCmRHe0SHaexCkJvqc67i138SU_ASJzB0AqfWyg&s)
 
-<img src="./hh.jpg" width="50" height="60">
+<img src="./hh.jpg" width="250" height="260">
